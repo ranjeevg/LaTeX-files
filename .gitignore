@@ -1,1 +1,7 @@
-LateX-files/'Private*/*'
+LaTeX-files/Private*/*
+LaTex-files/Public/*/*.aux
+LaTex-files/Public/*/*.fdb_latexmk
+LaTeX-files/Public/*/*.fls
+LaTex-files/Public/*/*.log
+LaTex-files/Public/*/*.pdf
+LaTex-files/Public/*/*.synctex.gze
