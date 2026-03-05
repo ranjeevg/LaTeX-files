@@ -1,0 +1,13 @@
+# Fdb version 4
+["pdflatex"] 1772748504.45146 "/home/ranjeevji/Documents/LaTeX-files/Public/SampleTexFile/sampleTexFile.tex" "sampleTexFile.pdf" "sampleTexFile" 1772748504.55254 2
+  "/home/ranjeevji/Documents/LaTeX-files/Public/SampleTexFile/sampleTexFile.tex" 1772748504.2708 61 7eb39e15fe2389b20d9ea0220cd198e5 ""
+  "/usr/share/texmf-dist/web2c/texmf.cnf" 1772460543 43569 fd570f2fa160877d211e859f687312ba ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1772737560 3084550 0fdeec4934084959419d22ab0016a784 ""
+  "poetry.cls" 0 -1 0 ""
+  "sampleTexFile.aux" 1772748496.45036 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "sampleTexFile.tex" 1772748504.2708 61 7eb39e15fe2389b20d9ea0220cd198e5 ""
+  (generated)
+  "sampleTexFile.aux"
+  "sampleTexFile.log"
+  "sampleTexFile.pdf"
+  (rewritten before read)
